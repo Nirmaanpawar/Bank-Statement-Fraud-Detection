@@ -1,0 +1,41 @@
+txn_id,date,description,amount,txn_type,deposit,withdrawal,balance
+1,2026-08-30 16:36,Flipkart Internet Pvt Ltd,81878.26,debit,0.0,81878.26,168121.74
+2,2026-08-31 05:23,NACH/Mutual Fund SIP Redemption,88031.43,credit,88031.43,0.0,256153.17
+3,2026-09-02 05:28,UPI/Zomato/Restaurant,96437.79,debit,0.0,96437.79,159715.38
+4,2026-09-02 09:41,UPI/Swiggy/FoodOrder,4529.76,debit,0.0,4529.76,155185.62
+5,2026-09-02 22:26,Netflix India Subscription,1110.62,debit,0.0,1110.62,154075.0
+6,2026-09-03 10:54,UPI/Swiggy/FoodOrder,1110.64,debit,0.0,1110.64,152964.36
+7,2026-09-04 11:04,Apollo Pharmacy Healthcare,99357.66,debit,0.0,99357.66,53606.7
+8,2026-09-04 23:17,Apollo Pharmacy Healthcare,2474.88,debit,0.0,2474.88,51131.82
+9,2026-09-05 03:41,IMPS/Client Payout/Acme,73818.53,credit,73818.53,0.0,124950.35
+10,2026-09-06 04:32,UPI/Received from Amit Sharma,93985.38,credit,93985.38,0.0,218935.73
+11,2026-09-06 17:31,Netflix India Subscription,99017.39,debit,0.0,99017.39,119918.34
+12,2026-09-07 06:11,Zerodha Broking Deposit,75219.75,debit,0.0,75219.75,44698.59
+13,2026-09-07 18:56,NACH/Mutual Fund SIP Redemption,97237.79,credit,97237.79,0.0,141936.38
+14,2026-09-08 07:14,Flipkart Internet Pvt Ltd,98370.41,debit,0.0,98370.41,43565.97
+15,2026-09-10 07:38,Zerodha Broking Deposit,336.99,debit,0.0,336.99,43228.98
+16,2026-09-10 12:00,Airtel Postpaid Bill,854.2,debit,0.0,854.2,42374.78
+17,2026-09-11 12:43,Uber India Mobility,79465.55,debit,0.0,79465.55,-37090.77
+18,2026-09-12 00:58,BookMyShow Entertainment,81696.93,debit,0.0,81696.93,-118787.7
+19,2026-09-12 13:57,Netflix India Subscription,647.8,debit,0.0,647.8,-119435.5
+20,2026-09-13 02:17,UPI/Zomato/Restaurant,85323.41,debit,0.0,85323.41,-204758.91
+21,2026-09-13 14:19,BookMyShow Entertainment,96727.64,debit,0.0,96727.64,-301486.55
+22,2026-09-14 02:32,Apollo Pharmacy Healthcare,84119.66,debit,0.0,84119.66,-385606.21
+23,2026-09-14 15:03,MakeMyTrip India Flight,1413.78,debit,0.0,1413.78,-387019.99
+24,2026-09-14 19:11,Netflix India Subscription,428.46,debit,0.0,428.46,-387448.45
+25,2026-09-15 07:58,BookMyShow Entertainment,97911.21,debit,0.0,97911.21,-485359.66
+26,2026-09-15 20:06,Reliance Retail Superstore,1463.72,debit,0.0,1463.72,-486823.38
+27,2026-09-16 21:01,NACH/Mutual Fund SIP Redemption,20424.76,credit,20424.76,0.0,-466398.62
+28,2026-09-17 01:44,Reliance Retail Superstore,87137.61,debit,0.0,87137.61,-553536.23
+29,2026-09-17 14:22,Cult.fit Fitness Pass,828.39,debit,0.0,828.39,-554364.62
+30,2026-09-18 02:57,UPI/Swiggy/FoodOrder,75943.68,debit,0.0,75943.68,-630308.3
+31,2026-09-19 03:04,Netflix India Subscription,98194.72,debit,0.0,98194.72,-728503.02
+32,2026-09-20 03:53,D-Mart Hypermarket,83717.84,debit,0.0,83717.84,-812220.86
+33,2026-09-20 16:03,Airtel Postpaid Bill,1325.05,debit,0.0,1325.05,-813545.91
+34,2026-09-23 16:51,D-Mart Hypermarket,81716.84,debit,0.0,81716.84,-895262.75
+35,2026-09-25 17:10,Cult.fit Fitness Pass,93017.75,debit,0.0,93017.75,-988280.5
+36,2026-09-26 17:19,Uber India Mobility,71886.18,debit,0.0,71886.18,-1060166.68
+37,2026-09-27 06:08,UPI/Swiggy/FoodOrder,1583.02,debit,0.0,1583.02,-1061749.7
+38,2026-09-27 18:39,IMPS/Client Payout/Acme,78241.84,credit,78241.84,0.0,-983507.86
+39,2026-09-29 19:32,Flipkart Internet Pvt Ltd,92063.94,debit,0.0,92063.94,-1075571.8
+40,2026-09-30 00:28,Reliance Retail Superstore,95043.36,debit,0.0,95043.36,-1170615.16
